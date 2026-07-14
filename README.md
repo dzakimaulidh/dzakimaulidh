@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://aiclub.id/badge/s00_01KXCXAH9A1MF6J7T706HBJ19Y.svg?style=pill&theme=dark" alt="AI Club Certification Badge" />
-</p>
-
 <h1 align="center">DZAKI MAULID HIDAYAT</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/CORE%20ACCESS-DZAKI%20MAULID%20HIDAYAT-0d6efd?style=for-the-badge&labelColor=1a1a1a" width="100%" alt="Main System Banner" />

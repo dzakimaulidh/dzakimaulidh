@@ -1,4 +1,3 @@
-<h1 align="center">DZAKI MAULID HIDAYAT</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/CORE%20ACCESS-DZAKI%20MAULID%20HIDAYAT-0d6efd?style=for-the-badge&labelColor=1a1a1a" width="100%" alt="Main System Banner" />
 </p>

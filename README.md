@@ -9,14 +9,14 @@
 <br>
 
 ## About Me
-Saya adalah seorang developer yang bersemangat dalam membangun solusi digital *end-to-end* untuk memecahkan masalah di dunia nyata. Keahlian saya mencakup pengembangan perangkat lunak, otomasi berbasis AI, dan infrastruktur jaringan, yang memungkinkan saya untuk menghadirkan aplikasi yang tangguh, aman, dan stabil.
+Saya adalah seorang developer yang bersemangat dalam membangun solusi digital *end-to-end* untuk memecahkan masalah di dunia nyata. Keahlian saya mencakup pengembangan perangkat lunak, otomasi berbasis AI, dan infrastruktur jaringan, yang memungkinkan saya untuk menghadirkan aplikasi yang skalabel, aman, dan stabil.
 
 <br>
 
 ## What I Do
 * **AI & Automation:** Mengembangkan bot cerdas untuk TikTok dan Telegram guna meningkatkan *engagement*, mengirim notifikasi pintar, serta merancang *tools* untuk *scraping* dan otomasi.
 * **Web Development:** Membangun aplikasi web praktis dengan logika *back-end* yang kuat, termasuk pembuatan sistem absensi yang komprehensif dan program manajemen *front-office*.
-* **Infrastructure & Security:** Menangani konfigurasi jaringan, LAN, *troubleshooting router*, mengidentifikasi kerentanan web, serta menerapkan arsitektur *hosting* yang aman (misalnya menggunakan Cloudflare Tunnels).
+* **Infrastructure & Security:** Menangani konfigurasi jaringan, LAN, *troubleshooting router*, mengidentifikasi kerentanan web, serta menerapkan arsitektur *hosting* yang tangguh (misalnya menggunakan Cloudflare Tunnels).
 
 <br>
 
@@ -44,9 +44,9 @@ Saya adalah seorang developer yang bersemangat dalam membangun solusi digital *e
 ## Contribution Graph
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakimaulid/dzakimaulid/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakimaulid/dzakimaulid/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/dzakimaulid/dzakimaulid/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dzakimaulidh/dzakimaulidh/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dzakimaulidh/dzakimaulidh/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/dzakimaulidh/dzakimaulidh/output/github-contribution-grid-snake.svg">
   </picture>
 </p>
 
@@ -57,7 +57,7 @@ Saya adalah seorang developer yang bersemangat dalam membangun solusi digital *e
   <a href="mailto:dzakif073@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d6efd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/dzakimaulid">
+  <a href="https://linkedin.com/in/dzakimaulidh">
     <img src="https://img.shields.io/badge/LinkedIn-0d6efd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

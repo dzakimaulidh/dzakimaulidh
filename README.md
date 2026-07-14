@@ -4,7 +4,12 @@
 
 <h1 align="center">DZAKI MAULID HIDAYAT</h1>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=soft&color=0d6efd&height=200&section=header&text=Dzaki%20Maulid%20Hidayat&fontSize=40&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20AI%20Automation%20Specialist&descSize=16&descAlignTop=70&descAlign=50" alt="Cyber Blue Banner" />
+  <img src="https://img.shields.io/badge/CORE%20ACCESS-DZAKI%20MAULID%20HIDAYAT-0d6efd?style=for-the-badge&labelColor=1a1a1a" width="100%" alt="Main System Banner" />
+</p>
+
+<p align="center">
+  <strong>Full-Stack Engineer | AI Automation Specialist | DevSecOps Enthusiast</strong><br>
+  Building scalable web applications from code to cloud, optimized for search engines and web performance.
 </p>
 
 <p align="center">

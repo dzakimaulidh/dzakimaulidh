@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0d6efd&height=200&section=header&text=Dzaki%20Maulid%20Hidayat&fontSize=45&fontColor=ffffff" alt="Header Banner" />
-</p>
-
-<p align="center">
-  <strong>Full-Stack Engineer | AI Automation Specialist | DevSecOps Enthusiast</strong><br>
-  Building scalable web applications from code to cloud, optimized for search engines and web performance.
-</p>
-
-<p align="center">
   <img src="https://aiclub.id/badge/s00_01KXCXAH9A1MF6J7T706HBJ19Y.svg?style=pill&theme=dark" alt="AI Club Certification Badge" />
+</p>
+
+<h1 align="center">DZAKI MAULID HIDAYAT</h1>
+<p align="center"><strong>💎 Full-Stack Engineer | AI Automation Specialist | DevSecOps Enthusiast 💎</strong></p>
+
+<p align="center">
+  Building scalable web applications from code to cloud, optimized for search engines and web performance.
 </p>
 
 <p align="center">
@@ -70,9 +68,10 @@
 
 ## Vital Statistics
 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakimaulidh&theme=tokyonight&ring=0d6efd&fire=0d6efd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dzakimaulidh&show_icons=true&theme=tokyonight&title_color=0d6efd&icon_color=0d6efd&text_color=ffffff&bg_color=20222e" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzakimaulidh&show_icons=true&theme=tokyonight&title_color=0d6efd&icon_color=0d6efd&text_color=ffffff&bg_color=20222e" alt="GitHub Stats" />
 </p>
 
 <br>

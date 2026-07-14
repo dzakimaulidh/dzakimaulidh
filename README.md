@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=0d6efd&height=200&section=header&text=Dzaki%20Maulid%20Hidayat&fontSize=45&animation=twinkling&fontColor=ffffff" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/type=waving&color=0d6efd&height=200&section=header&text=Dzaki%20Maulid%20Hidayat&fontSize=45&fontColor=ffffff" alt="Header Banner" />
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=dzakimaulidh&label=PROFILE+VIEWS&color=0d6efd&style=flat-square" alt="Profile Views" />
 </p>
 
+---
 
 ## System Access & Core
 
@@ -41,7 +42,6 @@
 
 <table width="100%">
   <tr>
-    <!-- Kolom Kiri: Tech Stack -->
     <td width="50%" valign="top">
       <h4>Core Technologies</h4>
       <p align="left">
@@ -72,7 +72,7 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dzakimaulidh&theme=tokyonight&ring=0d6efd&fire=0d6efd&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak Stats" /><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=dzakimaulidh&show_icons=true&theme=tokyonight&title_color=0d6efd&icon_color=0d6efd&text_color=ffffff&bg_color=00000000" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dzakimaulidh&show_icons=true&theme=tokyonight&title_color=0d6efd&icon_color=0d6efd&text_color=ffffff&bg_color=20222e" alt="GitHub Stats" />
 </p>
 
 <br>
@@ -91,21 +91,17 @@
 
 ## Establish Connection
 
-<table width="100%">
-  <tr>
-    <td align="center">
-      <a href="mailto:dzakif073@gmail.com">
-        <img src="https://img.shields.io/badge/Email-dzakif073@gmail.com-0d6efd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-      </a>
-      <a href="https://linkedin.com/in/dzakimaulidh">
-        <img src="https://img.shields.io/badge/LinkedIn-dzakimaulidh-0d6efd?style=for-the-badge&logo=linkedin&omega;Color=white" alt="LinkedIn" />
-      </a>
-      <a href="https://www.instagram.com/dzaki_maulid/">
-        <img src="https://img.shields.io/badge/Instagram-@dzaki__maulid-0d6efd?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-      </a>
-      <a href="https://web.facebook.com/dzakimaulid.hidayat.50">
-        <img src="https://img.shields.io/badge/Facebook-Dzaki%20Maulid-0d6efd?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="mailto:dzakif073@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dzakif073@gmail.com-0d6efd?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/dzakimaulidh">
+    <img src="https://img.shields.io/badge/LinkedIn-dzakimaulidh-0d6efd?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/dzaki_maulid/">
+    <img src="https://img.shields.io/badge/Instagram-@dzaki__maulid-0d6efd?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://web.facebook.com/dzakimaulid.hidayat.50">
+    <img src="https://img.shields.io/badge/Facebook-Dzaki%20Maulid-0d6efd?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+</p>

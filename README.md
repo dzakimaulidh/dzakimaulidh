@@ -3,10 +3,12 @@
 </p>
 
 <h1 align="center">DZAKI MAULID HIDAYAT</h1>
-<p align="center"><strong>💎 Full-Stack Engineer | AI Automation Specialist | DevSecOps Enthusiast 💎</strong></p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/type=soft&color=0d6efd&height=200&section=header&text=Dzaki%20Maulid%20Hidayat&fontSize=40&fontColor=ffffff&desc=Full-Stack%20Engineer%20%7C%20AI%20Automation%20Specialist&descSize=16&descAlignTop=70&descAlign=50" alt="Cyber Blue Banner" />
+</p>
 
 <p align="center">
-  Building scalable web applications from code to cloud, optimized for search engines and web performance.
+  <img src="https://aiclub.id/badge/s00_01KXCXAH9A1MF6J7T706HBJ19Y.svg?style=pill&theme=dark" alt="AI Club Certification Badge" />
 </p>
 
 <p align="center">
